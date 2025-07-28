@@ -57,7 +57,7 @@ flowchart TD
 
   ## 🌐 Live Demo
 
-[https://github.com/Tanmayasahoo3536/devops-project](https://github.com/Tanmayasahoo3536/devops-project)
+[https://github.com/Subhasis-Harichandan-01/DevOps_Project](https://github.com/Tanmayasahoo3536/devops-project)
 
 ## ✨ Features
 
